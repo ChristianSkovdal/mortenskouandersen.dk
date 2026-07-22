@@ -1,0 +1,48 @@
+{
+  "album": [
+    {
+      "title": "Forældrelandssange",
+      "sub": "Album, 2023",
+      "img": "foraeldrelandssange.jpg",
+      "href": null
+    },
+    {
+      "title": "Boligindretning",
+      "sub": "Album, 2018",
+      "img": "boligindretning.jpg",
+      "href": null
+    },
+    {
+      "title": "Digressioner",
+      "sub": "Album, 2015",
+      "img": "digressioner.jpg",
+      "href": "../digressioner/"
+    },
+    {
+      "title": "Varme hænder koldt hjerte",
+      "sub": "Album, 2012",
+      "img": "varme-haender-koldt-hjerte.jpg",
+      "href": "../varme-haender-koldt-hjerte/"
+    },
+    {
+      "title": "Morten Skou Andersen &amp; de mennesker han normalt sammenligner sig med",
+      "sub": "Album, 2009",
+      "img": "orange-plade.jpg",
+      "href": "../morten-skou-andersen-de-mennesker-han-normalt-sammenligner-sig-med-den-orange-plade/"
+    },
+    {
+      "title": "I fingrene",
+      "sub": "Album, 2007",
+      "img": "i-fingrene.jpg",
+      "href": "../5537-2/"
+    }
+  ],
+  "single": [
+    {
+      "title": "Brev til Anders Breivik (singleversion) / Holmbladsgade-blues i h-mol",
+      "sub": "Single, 2013",
+      "img": "breivik-single.jpg",
+      "href": "../brev-til-anders-breivik-singleversion-holmbladsgade-blues-i-h-mol-single/"
+    }
+  ]
+}

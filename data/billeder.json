@@ -1,0 +1,169 @@
+[
+  {
+    "layout": "wide",
+    "images": [
+      {
+        "file": "dsc-1310.jpg",
+        "alt": "Morten Skou Andersen og bandet"
+      }
+    ]
+  },
+  {
+    "layout": "wide",
+    "images": [
+      {
+        "file": "bandfoto-2021.jpeg",
+        "alt": "Bandfoto, juni 2021"
+      }
+    ]
+  },
+  {
+    "layout": "single",
+    "images": [
+      {
+        "file": "birkeroed.jpg",
+        "alt": "Koncert i Birkerød"
+      }
+    ]
+  },
+  {
+    "layout": "wide",
+    "images": [
+      {
+        "file": "pressefoto-boligindretning.jpg",
+        "alt": "Pressefoto, Boligindretning"
+      }
+    ]
+  },
+  {
+    "layout": "cols-2",
+    "images": [
+      {
+        "file": "uden-pjat.jpg",
+        "alt": ""
+      },
+      {
+        "file": "deprifarver-klat.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "wide",
+    "images": [
+      {
+        "file": "forfra.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "cols-3",
+    "images": [
+      {
+        "file": "paa-raekke-adam.jpg",
+        "alt": ""
+      },
+      {
+        "file": "papir-01.jpg",
+        "alt": ""
+      },
+      {
+        "file": "papir-02.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "cols-2",
+    "images": [
+      {
+        "file": "snor-01.jpg",
+        "alt": ""
+      },
+      {
+        "file": "snor-02.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "cols-4",
+    "images": [
+      {
+        "file": "portraet-adam.jpg",
+        "alt": "Adam"
+      },
+      {
+        "file": "portraet-jacob.jpg",
+        "alt": "Jacob"
+      },
+      {
+        "file": "portraet-rasmus.jpg",
+        "alt": "Rasmus"
+      },
+      {
+        "file": "portraet-morten.jpg",
+        "alt": "Morten"
+      }
+    ]
+  },
+  {
+    "layout": "single",
+    "images": [
+      {
+        "file": "paa-raekke.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "cols-2",
+    "images": [
+      {
+        "file": "haengning-morten-hiver.jpg",
+        "alt": ""
+      },
+      {
+        "file": "haengning.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "wide",
+    "images": [
+      {
+        "file": "cement.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "single",
+    "images": [
+      {
+        "file": "hammer.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "single",
+    "images": [
+      {
+        "file": "antenne.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "layout": "single",
+    "images": [
+      {
+        "file": "portraet-i-fingrene.jpg",
+        "alt": ""
+      }
+    ]
+  }
+]
